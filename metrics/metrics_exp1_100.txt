@@ -1,0 +1,11 @@
+Video	Avg IoU
+CarScale	0.0177
+Dancer	0.2539
+Dancer2	0.1986
+Gym	0.2912
+Human8	0.0754
+Jump	0.0674
+Skater	0.1948
+Skater2	0.2200
+
+Global	0.1649

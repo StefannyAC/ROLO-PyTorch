@@ -1,0 +1,33 @@
+Video	Avg IoU
+Bird1	0.1518
+BlurBody	0.5259
+BlurCar1	0.4920
+BlurCar3	0.5002
+Car4	0.6928
+CarDark	0.4277
+CarScale	0.3736
+Couple	0.2547
+Dancer	0.6164
+Dancer2	0.5200
+David3	0.0747
+Diving	0.4138
+Dog	0.2818
+Girl2	0.3567
+Gym	0.4287
+Human2	0.4198
+Human3	0.1614
+Human6	0.2442
+Human7	0.1336
+Human8	0.0886
+Human9	0.1126
+Jump	0.1748
+Singer1	0.3350
+Singer2	0.4026
+Skater	0.6659
+Skater2	0.5945
+Skating1	0.3034
+Suv	0.6221
+Walking2	0.3813
+Woman	0.2122
+
+Global	0.3654
